@@ -1,0 +1,15 @@
+C:\Users\claud\OneDrive\Documents\Podstawy programowania\03.06.2023\Algorytmy_sekwencyjne_3\Algorytmy_sekwencyjne_3\bin\Debug\net7.0\Algorytmy_sekwencyjne_3.exe
+C:\Users\claud\OneDrive\Documents\Podstawy programowania\03.06.2023\Algorytmy_sekwencyjne_3\Algorytmy_sekwencyjne_3\bin\Debug\net7.0\Algorytmy_sekwencyjne_3.deps.json
+C:\Users\claud\OneDrive\Documents\Podstawy programowania\03.06.2023\Algorytmy_sekwencyjne_3\Algorytmy_sekwencyjne_3\bin\Debug\net7.0\Algorytmy_sekwencyjne_3.runtimeconfig.json
+C:\Users\claud\OneDrive\Documents\Podstawy programowania\03.06.2023\Algorytmy_sekwencyjne_3\Algorytmy_sekwencyjne_3\bin\Debug\net7.0\Algorytmy_sekwencyjne_3.dll
+C:\Users\claud\OneDrive\Documents\Podstawy programowania\03.06.2023\Algorytmy_sekwencyjne_3\Algorytmy_sekwencyjne_3\bin\Debug\net7.0\Algorytmy_sekwencyjne_3.pdb
+C:\Users\claud\OneDrive\Documents\Podstawy programowania\03.06.2023\Algorytmy_sekwencyjne_3\Algorytmy_sekwencyjne_3\obj\Debug\net7.0\Algorytmy_sekwencyjne_3.csproj.AssemblyReference.cache
+C:\Users\claud\OneDrive\Documents\Podstawy programowania\03.06.2023\Algorytmy_sekwencyjne_3\Algorytmy_sekwencyjne_3\obj\Debug\net7.0\Algorytmy_sekwencyjne_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\claud\OneDrive\Documents\Podstawy programowania\03.06.2023\Algorytmy_sekwencyjne_3\Algorytmy_sekwencyjne_3\obj\Debug\net7.0\Algorytmy_sekwencyjne_3.AssemblyInfoInputs.cache
+C:\Users\claud\OneDrive\Documents\Podstawy programowania\03.06.2023\Algorytmy_sekwencyjne_3\Algorytmy_sekwencyjne_3\obj\Debug\net7.0\Algorytmy_sekwencyjne_3.AssemblyInfo.cs
+C:\Users\claud\OneDrive\Documents\Podstawy programowania\03.06.2023\Algorytmy_sekwencyjne_3\Algorytmy_sekwencyjne_3\obj\Debug\net7.0\Algorytmy_sekwencyjne_3.csproj.CoreCompileInputs.cache
+C:\Users\claud\OneDrive\Documents\Podstawy programowania\03.06.2023\Algorytmy_sekwencyjne_3\Algorytmy_sekwencyjne_3\obj\Debug\net7.0\Algorytmy_sekwencyjne_3.dll
+C:\Users\claud\OneDrive\Documents\Podstawy programowania\03.06.2023\Algorytmy_sekwencyjne_3\Algorytmy_sekwencyjne_3\obj\Debug\net7.0\refint\Algorytmy_sekwencyjne_3.dll
+C:\Users\claud\OneDrive\Documents\Podstawy programowania\03.06.2023\Algorytmy_sekwencyjne_3\Algorytmy_sekwencyjne_3\obj\Debug\net7.0\Algorytmy_sekwencyjne_3.pdb
+C:\Users\claud\OneDrive\Documents\Podstawy programowania\03.06.2023\Algorytmy_sekwencyjne_3\Algorytmy_sekwencyjne_3\obj\Debug\net7.0\Algorytmy_sekwencyjne_3.genruntimeconfig.cache
+C:\Users\claud\OneDrive\Documents\Podstawy programowania\03.06.2023\Algorytmy_sekwencyjne_3\Algorytmy_sekwencyjne_3\obj\Debug\net7.0\ref\Algorytmy_sekwencyjne_3.dll
