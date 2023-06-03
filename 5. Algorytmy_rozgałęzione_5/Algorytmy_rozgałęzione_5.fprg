@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="3.0">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="claud"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2023-06-03 04:51:29 PM"/>
+        <attribute name="created" value="Y2xhdWQ7TEFQVE9QLVBDOU01Vk9OOzIwMjMtMDYtMDM7MDQ6Mjg6MTMgUE07Mjg4NQ=="/>
+        <attribute name="edited" value="Y2xhdWQ7TEFQVE9QLVBDOU01Vk9OOzIwMjMtMDYtMDM7MDQ6NTE6MjkgUE07MTsyOTk2"/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="a, b" type="Real" array="False" size=""/>
+            <output expression="&quot;Podaj dowoln&#261; liczb&#281;:&quot;" newline="True"/>
+            <input variable="a"/>
+            <output expression="&quot;Podaj liczb&#281;, z kt&#243;r&#261; chcesz por&#243;wna&#263; poprzedni&#261; liczb&#281;:&quot;" newline="True"/>
+            <input variable="b"/>
+            <if expression="a==b">
+                <then>
+                    <output expression="&quot;Te liczby s&#261; sobie r&#243;wne!&quot;" newline="True"/>
+                    <breakpoint expression="" always="True"/>
+                </then>
+                <else/>
+            </if>
+            <if expression="a&gt;b">
+                <then>
+                    <output expression="&quot;Z dw&#243;ch podanych liczb, wi&#281;ksza jest liczba:&quot; &amp;a" newline="True"/>
+                </then>
+                <else>
+                    <output expression="&quot;Z dw&#243;ch podanych liczb, wi&#281;ksza jest liczba:&quot; &amp;b" newline="True"/>
+                </else>
+            </if>
+        </body>
+    </function>
+</flowgorithm>

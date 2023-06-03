@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="3.0">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="claud"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2023-06-03 06:01:24 PM"/>
+        <attribute name="created" value="Y2xhdWQ7TEFQVE9QLVBDOU01Vk9OOzIwMjMtMDYtMDM7MDU6Mjc6NTUgUE07Mjg5MQ=="/>
+        <attribute name="edited" value="Y2xhdWQ7TEFQVE9QLVBDOU01Vk9OOzIwMjMtMDYtMDM7MDY6MDE6MjQgUE07MjsyOTg5"/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="a, b, c, d, licznik, mianownik" type="Real" array="False" size=""/>
+            <output expression="&quot;Podaj warto&#347;&#263; liczby a:&quot;" newline="True"/>
+            <input variable="a"/>
+            <output expression="&quot;Podaj warto&#347;&#263; liczby b:&quot;" newline="True"/>
+            <input variable="b"/>
+            <output expression="&quot;Podaj warto&#347;&#263; liczby c:&quot;" newline="True"/>
+            <input variable="c"/>
+            <output expression="&quot;Podaj warto&#347;&#263; liczby d:&quot;" newline="True"/>
+            <input variable="d"/>
+            <if expression="b = 0 OR d = 0">
+                <then>
+                    <output expression="&quot;Brak rozwi&#261;zania.&quot;" newline="True"/>
+                </then>
+                <else>
+                    <assign variable="licznik" expression="a * d + b * c"/>
+                    <assign variable="mianownik" expression="b*d"/>
+                    <output expression="&quot;Licznik (x)=&quot; &amp;licznik" newline="True"/>
+                    <output expression="&quot;Mianownik (y)=&quot; &amp;Mianownik" newline="True"/>
+                </else>
+            </if>
+        </body>
+    </function>
+</flowgorithm>

@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="3.0">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="claud"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2023-06-03 05:24:26 PM"/>
+        <attribute name="created" value="Y2xhdWQ7TEFQVE9QLVBDOU01Vk9OOzIwMjMtMDYtMDM7MDQ6NTc6MjcgUE07Mjg5Mg=="/>
+        <attribute name="edited" value="Y2xhdWQ7TEFQVE9QLVBDOU01Vk9OOzIwMjMtMDYtMDM7MDU6MjQ6MjYgUE07MzsyOTk2"/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="a, b, c" type="Real" array="False" size=""/>
+            <output expression="&quot;Podaj d&#322;ogo&#347;&#263; pierwszego boku tr&#243;jk&#261;ta:&quot;" newline="True"/>
+            <input variable="a"/>
+            <output expression="&quot;Podaj d&#322;ugo&#347;&#263; drugiego boku tr&#243;jk&#261;ta:&quot;" newline="True"/>
+            <input variable="b"/>
+            <output expression="&quot;Podaj d&#322;ugo&#347;&#263; drugiego boku tr&#243;jk&#261;ta:&quot;" newline="True"/>
+            <input variable="c"/>
+            <declare name="d&#322;ugo&#347;&#263;Bok&#243;wtr&#243;jk&#261;ta" type="Real" array="False" size=""/>
+            <if expression="a=b AND a=c AND b=c">
+                <then>
+                    <output expression="&quot;Podane przez Ciebie d&#322;ugo&#347;ci bok&#243;w wskazuj&#261;, &#380;e tr&#243;jk&#261;t ten JEST tr&#243;jk&#261;tem r&#243;wnobocznym.&quot;" newline="True"/>
+                </then>
+                <else>
+                    <output expression="&quot;Podane przez Ciebie d&#322;ugo&#347;ci bok&#243;w wskazuj&#261;, &#380;e tr&#243;jk&#261;t ten NIE JEST tr&#243;jk&#261;tem r&#243;wnobocznym.&quot;" newline="True"/>
+                </else>
+            </if>
+        </body>
+    </function>
+</flowgorithm>
