@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="3.0">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="claud"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2023-06-03 05:16:24 PM"/>
+        <attribute name="created" value="Y2xhdWQ7TEFQVE9QLVBDOU01Vk9OOzIwMjMtMDYtMDM7MDU6MDg6MjcgUE07Mjg4OQ=="/>
+        <attribute name="edited" value="Y2xhdWQ7TEFQVE9QLVBDOU01Vk9OOzIwMjMtMDYtMDM7MDU6MTY6MjQgUE07MTsyOTkz"/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="x, y, r, odlegloscOdSrodka" type="Real" array="False" size=""/>
+            <output expression="&quot;Podaj x:&quot;" newline="True"/>
+            <input variable="x"/>
+            <output expression="&quot;Podaj y:&quot;" newline="True"/>
+            <input variable="y"/>
+            <output expression="&quot;Podaj r:&quot;" newline="True"/>
+            <input variable="r"/>
+            <if expression="x^x + y^y &lt;= r*r">
+                <then>
+                    <output expression="&quot;Wpisane wsp&#243;&#322;rz&#281;dne znajduj&#261; si&#281; w obr&#281;bie ko&#322;a.&quot;" newline="True"/>
+                </then>
+                <else>
+                    <output expression="&quot;Wpisane wsp&#243;&#322;rz&#281;dne NIE znajduj&#261; si&#281; w obr&#281;bie ko&#322;a.&quot;" newline="True"/>
+                </else>
+            </if>
+        </body>
+    </function>
+</flowgorithm>

@@ -1,0 +1,30 @@
+C:\Users\claud\OneDrive\Documents\Podstawy programowania\03.06.2023\Algorytmy_rozgałęzione_7\Algorytmy_rozgałęzione_7\bin\Debug\net7.0\Algorytmy_rozgałęzione_7.exe
+C:\Users\claud\OneDrive\Documents\Podstawy programowania\03.06.2023\Algorytmy_rozgałęzione_7\Algorytmy_rozgałęzione_7\bin\Debug\net7.0\Algorytmy_rozgałęzione_7.deps.json
+C:\Users\claud\OneDrive\Documents\Podstawy programowania\03.06.2023\Algorytmy_rozgałęzione_7\Algorytmy_rozgałęzione_7\bin\Debug\net7.0\Algorytmy_rozgałęzione_7.runtimeconfig.json
+C:\Users\claud\OneDrive\Documents\Podstawy programowania\03.06.2023\Algorytmy_rozgałęzione_7\Algorytmy_rozgałęzione_7\bin\Debug\net7.0\Algorytmy_rozgałęzione_7.dll
+C:\Users\claud\OneDrive\Documents\Podstawy programowania\03.06.2023\Algorytmy_rozgałęzione_7\Algorytmy_rozgałęzione_7\bin\Debug\net7.0\Algorytmy_rozgałęzione_7.pdb
+C:\Users\claud\OneDrive\Documents\Podstawy programowania\03.06.2023\Algorytmy_rozgałęzione_7\Algorytmy_rozgałęzione_7\obj\Debug\net7.0\Algorytmy_rozgałęzione_7.csproj.AssemblyReference.cache
+C:\Users\claud\OneDrive\Documents\Podstawy programowania\03.06.2023\Algorytmy_rozgałęzione_7\Algorytmy_rozgałęzione_7\obj\Debug\net7.0\Algorytmy_rozgałęzione_7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\claud\OneDrive\Documents\Podstawy programowania\03.06.2023\Algorytmy_rozgałęzione_7\Algorytmy_rozgałęzione_7\obj\Debug\net7.0\Algorytmy_rozgałęzione_7.AssemblyInfoInputs.cache
+C:\Users\claud\OneDrive\Documents\Podstawy programowania\03.06.2023\Algorytmy_rozgałęzione_7\Algorytmy_rozgałęzione_7\obj\Debug\net7.0\Algorytmy_rozgałęzione_7.AssemblyInfo.cs
+C:\Users\claud\OneDrive\Documents\Podstawy programowania\03.06.2023\Algorytmy_rozgałęzione_7\Algorytmy_rozgałęzione_7\obj\Debug\net7.0\Algorytmy_rozgałęzione_7.csproj.CoreCompileInputs.cache
+C:\Users\claud\OneDrive\Documents\Podstawy programowania\03.06.2023\Algorytmy_rozgałęzione_7\Algorytmy_rozgałęzione_7\obj\Debug\net7.0\Algorytmy_rozgałęzione_7.dll
+C:\Users\claud\OneDrive\Documents\Podstawy programowania\03.06.2023\Algorytmy_rozgałęzione_7\Algorytmy_rozgałęzione_7\obj\Debug\net7.0\refint\Algorytmy_rozgałęzione_7.dll
+C:\Users\claud\OneDrive\Documents\Podstawy programowania\03.06.2023\Algorytmy_rozgałęzione_7\Algorytmy_rozgałęzione_7\obj\Debug\net7.0\Algorytmy_rozgałęzione_7.pdb
+C:\Users\claud\OneDrive\Documents\Podstawy programowania\03.06.2023\Algorytmy_rozgałęzione_7\Algorytmy_rozgałęzione_7\obj\Debug\net7.0\Algorytmy_rozgałęzione_7.genruntimeconfig.cache
+C:\Users\claud\OneDrive\Documents\Podstawy programowania\03.06.2023\Algorytmy_rozgałęzione_7\Algorytmy_rozgałęzione_7\obj\Debug\net7.0\ref\Algorytmy_rozgałęzione_7.dll
+C:\Users\claud\OneDrive\Documents\Podstawy programowania\03.06.2023\7. Algorytmy_rozgałęzione_7\Algorytmy_rozgałęzione_7\bin\Debug\net7.0\Algorytmy_rozgałęzione_7.exe
+C:\Users\claud\OneDrive\Documents\Podstawy programowania\03.06.2023\7. Algorytmy_rozgałęzione_7\Algorytmy_rozgałęzione_7\bin\Debug\net7.0\Algorytmy_rozgałęzione_7.deps.json
+C:\Users\claud\OneDrive\Documents\Podstawy programowania\03.06.2023\7. Algorytmy_rozgałęzione_7\Algorytmy_rozgałęzione_7\bin\Debug\net7.0\Algorytmy_rozgałęzione_7.runtimeconfig.json
+C:\Users\claud\OneDrive\Documents\Podstawy programowania\03.06.2023\7. Algorytmy_rozgałęzione_7\Algorytmy_rozgałęzione_7\bin\Debug\net7.0\Algorytmy_rozgałęzione_7.dll
+C:\Users\claud\OneDrive\Documents\Podstawy programowania\03.06.2023\7. Algorytmy_rozgałęzione_7\Algorytmy_rozgałęzione_7\bin\Debug\net7.0\Algorytmy_rozgałęzione_7.pdb
+C:\Users\claud\OneDrive\Documents\Podstawy programowania\03.06.2023\7. Algorytmy_rozgałęzione_7\Algorytmy_rozgałęzione_7\obj\Debug\net7.0\Algorytmy_rozgałęzione_7.csproj.AssemblyReference.cache
+C:\Users\claud\OneDrive\Documents\Podstawy programowania\03.06.2023\7. Algorytmy_rozgałęzione_7\Algorytmy_rozgałęzione_7\obj\Debug\net7.0\Algorytmy_rozgałęzione_7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\claud\OneDrive\Documents\Podstawy programowania\03.06.2023\7. Algorytmy_rozgałęzione_7\Algorytmy_rozgałęzione_7\obj\Debug\net7.0\Algorytmy_rozgałęzione_7.AssemblyInfoInputs.cache
+C:\Users\claud\OneDrive\Documents\Podstawy programowania\03.06.2023\7. Algorytmy_rozgałęzione_7\Algorytmy_rozgałęzione_7\obj\Debug\net7.0\Algorytmy_rozgałęzione_7.AssemblyInfo.cs
+C:\Users\claud\OneDrive\Documents\Podstawy programowania\03.06.2023\7. Algorytmy_rozgałęzione_7\Algorytmy_rozgałęzione_7\obj\Debug\net7.0\Algorytmy_rozgałęzione_7.csproj.CoreCompileInputs.cache
+C:\Users\claud\OneDrive\Documents\Podstawy programowania\03.06.2023\7. Algorytmy_rozgałęzione_7\Algorytmy_rozgałęzione_7\obj\Debug\net7.0\Algorytmy_rozgałęzione_7.dll
+C:\Users\claud\OneDrive\Documents\Podstawy programowania\03.06.2023\7. Algorytmy_rozgałęzione_7\Algorytmy_rozgałęzione_7\obj\Debug\net7.0\refint\Algorytmy_rozgałęzione_7.dll
+C:\Users\claud\OneDrive\Documents\Podstawy programowania\03.06.2023\7. Algorytmy_rozgałęzione_7\Algorytmy_rozgałęzione_7\obj\Debug\net7.0\Algorytmy_rozgałęzione_7.pdb
+C:\Users\claud\OneDrive\Documents\Podstawy programowania\03.06.2023\7. Algorytmy_rozgałęzione_7\Algorytmy_rozgałęzione_7\obj\Debug\net7.0\Algorytmy_rozgałęzione_7.genruntimeconfig.cache
+C:\Users\claud\OneDrive\Documents\Podstawy programowania\03.06.2023\7. Algorytmy_rozgałęzione_7\Algorytmy_rozgałęzione_7\obj\Debug\net7.0\ref\Algorytmy_rozgałęzione_7.dll
