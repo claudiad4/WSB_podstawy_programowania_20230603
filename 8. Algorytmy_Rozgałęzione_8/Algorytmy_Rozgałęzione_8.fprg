@@ -1,0 +1,70 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="3.0">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="claud"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2023-06-03 06:27:26 PM"/>
+        <attribute name="created" value="Y2xhdWQ7TEFQVE9QLVBDOU01Vk9OOzIwMjMtMDYtMDM7MDY6MDE6MzQgUE07Mjg4MQ=="/>
+        <attribute name="edited" value="Y2xhdWQ7TEFQVE9QLVBDOU01Vk9OOzIwMjMtMDYtMDM7MDY6Mjc6MjYgUE07MTsyOTk4"/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="a, b, dzia&#322;anie, wynikDodawania, wynikOdejmowania, wynikMno&#380;enia, wynikDzielenia" type="Integer" array="False" size=""/>
+            <output expression="&quot;Wprowad&#378; numer dzia&#322;ania, kt&#243;re chcesz wykona&#263;: Dodawanie (1), Odejmowanie (2), Mno&#380;enie (3), Dzielenie (4)&quot;" newline="True"/>
+            <input variable="Dzia&#322;anie"/>
+            <if expression="dzia&#322;anie = 1">
+                <then>
+                    <output expression="&quot;Wprowad&#378; liczb&#281; a:&quot;" newline="True"/>
+                    <input variable="a"/>
+                    <output expression="&quot;Wprowad&#378; liczb&#281; b:&quot;" newline="True"/>
+                    <input variable="b"/>
+                    <assign variable="wynikDodawania" expression="a+b"/>
+                    <output expression="&quot;Wynik=&quot;&amp;wynikDodawania" newline="True"/>
+                </then>
+                <else/>
+            </if>
+            <if expression="dzia&#322;anie = 2">
+                <then>
+                    <output expression="&quot;Wprowad&#378; liczb&#281; a:&quot;" newline="True"/>
+                    <input variable="a"/>
+                    <output expression="&quot;Wprowad&#378; liczb&#281; b:&quot;" newline="True"/>
+                    <input variable="b"/>
+                    <assign variable="wynikOdejmowania" expression="a-b"/>
+                    <output expression="&quot;Wynik=&quot;&amp;wynikOdejmowania" newline="True"/>
+                </then>
+                <else/>
+            </if>
+            <if expression="dzia&#322;anie = 3">
+                <then>
+                    <output expression="&quot;Wprowad&#378; liczb&#281; a:&quot;" newline="True"/>
+                    <input variable="a"/>
+                    <output expression="&quot;Wprowad&#378; liczb&#281; b:&quot;" newline="True"/>
+                    <input variable="b"/>
+                    <assign variable="wynikMno&#380;enia" expression="a*b"/>
+                    <output expression="&quot;Wynik=&quot;&amp;wynikMno&#380;enia" newline="True"/>
+                </then>
+                <else/>
+            </if>
+            <if expression="dzia&#322;anie = 4">
+                <then>
+                    <output expression="&quot;Wprowad&#378; liczb&#281; a:&quot;" newline="True"/>
+                    <input variable="a"/>
+                    <output expression="&quot;Wprowad&#378; liczb&#281; b:&quot;" newline="True"/>
+                    <input variable="b"/>
+                    <assign variable="wynikDzielenia" expression="a/b"/>
+                    <if expression="b=0">
+                        <then>
+                            <output expression="&quot;Wynik= &amp;a/0&quot;" newline="True"/>
+                        </then>
+                        <else>
+                            <output expression="&quot;Wynik=&quot;&amp;wynikDzielenia" newline="True"/>
+                        </else>
+                    </if>
+                </then>
+                <else/>
+            </if>
+        </body>
+    </function>
+</flowgorithm>
